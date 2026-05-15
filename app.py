@@ -20,7 +20,7 @@ JWT_API = "http://d1.max-cloud.xyz:2009/token"
 
 JWT_CREDENTIALS = {
     "IND": {"uid": "4264854536", "password": "IND_PASSWORD"},
-    "BD":  {"uid": "4363457346", "password": "BD_PASSWORD"},
+    "BD":  {"uid": "4801787443", "password": "Sabbir12-W5D3F8BZ"},
     "ME":  {"uid": "4363456802", "password": "PK_PASSWORD"},
     "PK":  {"uid": "4363456802", "password": "PK_PASSWORD"},
     "TH":  {"uid": "4363456802", "password": "PK_PASSWORD"},
