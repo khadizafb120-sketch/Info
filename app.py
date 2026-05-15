@@ -35,7 +35,7 @@ def get_jwt_token_sync(region):
     global jwt_token
 
     creds = JWT_CREDENTIALS.get(region, JWT_CREDENTIALS["IND"])
-    url = f"{JWT_API}?uid={creds['uid']}&password={creds['password']}"
+    url =f"http://157.15.98.85:25565/generate-jwt?uid={uid}&password={encoded_password}"
 
     with jwt_lock:
         try:
