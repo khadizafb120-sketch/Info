@@ -151,8 +151,8 @@ def info():
 def home():
     return jsonify({
         "message": "Free Fire Account Info API",
-        "developer": "@STAR_GMR",
-        "channel": "@STAR_METHODE",
+        "developer": "@SABBIR_CODEX",
+        "channel": "@SABBIR_CODEX",
         "endpoint": "/accinfo?uid=UID&region=IND"
     })
 
